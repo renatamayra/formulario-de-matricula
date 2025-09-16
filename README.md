@@ -14,7 +14,7 @@ Este projeto consolida meus estudos em <strong>HTML e CSS</strong>, explorando a
 </p>
 
 <p align="center">
-  <img alt="Preview do projeto Formulário de Matrícula" src="../formulario-de-matricula/assets/img-projeto-form-matricula.png" width="100%">
+  <img alt="Preview do projeto Formulário de Matrícula" src="./assets/img-projeto-form-matricula.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
